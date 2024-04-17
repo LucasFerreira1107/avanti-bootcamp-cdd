@@ -1,0 +1,6 @@
+variavel,descricao,tipo,subtipo
+Unnamed:0,Igual ao index,Quantitativa,Discreta
+subject,Numero da questao a ser resolvida,quantitativa,discreta
+attention,O classificacao da atencao do individuo,qualitativa,ordinal
+solutions,"Solucao do problema, de 1 a 3",quantitativa,discreta
+score,A pontucao do individo,quantitativa,continua
